@@ -25,7 +25,7 @@ Add this to your Gemfile:
 
 ## Further reading
 
-For a more detailed description, see
+For a more detailed description of this gem and it's source, see
 [this article](http://blog.codegourmet.de/2014/11/11/ruby-capturing-and-mocking-stdout/)
 on my blog.
 
